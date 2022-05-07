@@ -1,0 +1,16 @@
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.exe
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.deps.json
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.runtimeconfig.json
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.runtimeconfig.dev.json
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.dll
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\ref\CalcApp-Console.dll
+C:\Users\OLUCHI\source\repos\CalcApp-Console\bin\Debug\net5.0\CalcApp-Console.pdb
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.AssemblyInfoInputs.cache
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.AssemblyInfo.cs
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.csproj.CoreCompileInputs.cache
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.dll
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\ref\CalcApp-Console.dll
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.pdb
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.genruntimeconfig.cache
+C:\Users\OLUCHI\source\repos\CalcApp-Console\obj\Debug\net5.0\CalcApp-Console.csproj.AssemblyReference.cache

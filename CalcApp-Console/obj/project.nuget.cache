@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruGUgewlKXkASvnIIE2gtCTkz+xceefLvxrv1NZzaGgckAYzpB3X0m1oR0RVxpXKa7h/x5owWd+FCjp0/X3STw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OLUCHI\\source\\repos\\CalcApp-Console\\CalcApp-Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OLUCHI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
